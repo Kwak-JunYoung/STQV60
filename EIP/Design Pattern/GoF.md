@@ -4,7 +4,7 @@ Gangs of Four
 객체를 생성하는 것에 대한 패턴
 - Abstract Factory
 - Builder
-- Factory Method
+- [[Factory Method]]
 - Prototype
 - Singleton
 - 추빌팩프싱

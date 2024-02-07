@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2ea2ff05e2d80657",
+        "id": "cd1aac688ecd5cf4",
         "type": "tabs",
         "children": [
           {
-            "id": "ce2330223ba834b1",
+            "id": "8882657f4da5069f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EIP/Stream Encryption.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bceee385ddf9544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Network/Encryption/RC4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47f08043737376ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Network/Encryption/Two-way Encryption.md",
+                "file": "CS/DataBase/Relation Algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "알파",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EIP/Stream Encryption.md",
+                "file": "CS/DataBase/Relation Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EIP/Stream Encryption.md",
+                "file": "CS/DataBase/Relation Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EIP/Stream Encryption.md"
+                "file": "CS/DataBase/Relation Algebra.md"
               }
             }
           }
@@ -171,47 +147,47 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ce2330223ba834b1",
+  "active": "8882657f4da5069f",
   "lastOpenFiles": [
+    "Relation Algebra.png",
+    "CS/DataBase/Relation Algebra.md",
+    "CS/DataBase/Physical DB Design.md",
+    "CS/DataBase/Logical DB Design.md",
+    "EIP/Work Breakdown Structure.md",
+    "EIP/CPM.md",
+    "EIP/ORB.md",
+    "EIP/N-Screen.md",
+    "EIP/MOM.md",
+    "EIP/MEMS.md",
+    "EIP/Memristor.md",
+    "EIP/Module.md",
+    "EIP/GANTT.md",
+    "EIP/Inspection.md",
+    "EIP/FTP Flooding.md",
+    "EIP/DRM.md",
+    "EIP/DFD.md",
+    "EIP/Test Driver.md",
+    "EIP/Test Stub.md",
+    "EIP/SW 품질 속성.md",
+    "EIP/System 품질 속성.md",
+    "EIP/System Catalog.md",
+    "EIP/SW Development Model.md",
+    "EIP/Stub.md",
+    "EIP/Test/Bottom Up Integration Test.md",
+    "CS/Network/IP Address Classes.md",
+    "EIP/Test",
     "push.sh",
     "README.md~",
-    "README.md",
-    "CS/Network/Encryption/대칭 암호화 알고리즘.md",
-    "EIP/Stream Encryption.md",
     "CS/Network/Encryption",
-    "CS/Network/Encryption/RC4.md",
-    "CS/Network/Encryption/Two-way Encryption.md",
-    "EIP/Block Encryption.md",
-    "CS/Network/Encryption/AES.md",
-    "CS/Network/Encryption/Encryption.md",
-    "CS/Network/Encryption/RSA.md",
-    "CS/Network/Encryption/DES.md",
-    "CS/Network/Encryption/One-way Encryption.md",
-    "CS/Network/Encryption/SHA-1.md",
-    "CS/Network/Encryption/MD5.md",
     "CS/Network/Encryption/Encryption.png",
     "EIP/Spiral Model.png",
-    "EIP/Spiral Model.md",
-    "CS/Network/Encryption/CVS.md",
-    "CS/OS/PFN.md",
-    "CS/Network/Packet.md",
-    "CS/OS/VPN.md",
     "Untitled.canvas",
-    "EIP/DRM.md",
-    "CS/OS/Process/Scheduling/Convoy Effect.md",
-    "CS/OS/Process/Scheduling/Incorporating IO.md",
-    "CS/OS/Process/Process API.md",
-    "EIP/CASE/Information Repository Technique.md",
-    "EIP/Behavioral Diagram.md",
-    "EIP/PIMS.md",
     "EIP/Bluetooth",
     "EIP/Requirements Modelling",
     "EIP/UI",
     "EIP/CASE",
     "CS/Network/OSI",
     "EIP/OO/SOLID",
-    "EIP/OO",
-    "EIP/Design Pattern",
     "CS/Network/OSI/OSI.png",
     "EIP/V Model IMG.png",
     "CS/OS/TLB Entry.png",
@@ -219,7 +195,6 @@
     "CS/OS/x86 PTE.png",
     "CS/OS/Address Translation Example.png",
     "CS/OS/Virtual Address in Paging.png",
-    "CS/OS/Untitled.canvas",
-    "CS/OS/Buddy_Allocation.png"
+    "CS/OS/Untitled.canvas"
   ]
 }

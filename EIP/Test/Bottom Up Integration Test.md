@@ -1,0 +1,2 @@
+- 프로그램의 하위 [[Module]]에서 상위 [[Module]] 방향으로 통합
+- 하나의 주요 제어 [[Module]]과 관련된 종속 [[Module]]의 그룹인 Cluster 필요
