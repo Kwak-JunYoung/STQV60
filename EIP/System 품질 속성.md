@@ -1,0 +1,13 @@
+
+- Availability
+	- 가용성
+- Modifiability
+	- 변경 용이성
+- Performance
+	- 성능
+- Security
+	- 보안성
+- Usability
+	- 사용성
+- Testability
+	- 시험용이성

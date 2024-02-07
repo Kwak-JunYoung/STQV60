@@ -1,0 +1,1 @@
+[[TCP]]의 [[3 Way Handshake]] 취약점을 이용한 [[Dos]] 공격으로 다량의 [[SYN]] [[Packet]]을 보내 [[Backlog Queue]]를 가득 채우는 공격

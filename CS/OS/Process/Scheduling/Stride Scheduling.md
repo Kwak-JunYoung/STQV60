@@ -1,0 +1,3 @@
+- [[Stride]]
+- [[Process]]가 돌면, 그것의 counter(=pass value)에 [[Stride]]를 더한다.
+	- 이 pass value가 가장 작은 [[Process]]가 다음에 돌 것.

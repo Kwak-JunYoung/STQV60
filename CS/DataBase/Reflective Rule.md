@@ -1,0 +1,1 @@
+If X ⊇ Y, then X-> Y and X -> X

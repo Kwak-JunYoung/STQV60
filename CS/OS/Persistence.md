@@ -1,0 +1,13 @@
+- DRAM과 같은 장치들은 휘발성.
+- HW, SW는 데이터를 영구적으로 저장하고 싶어한다.
+    - HW: HDD, SSD와 같은 장치 활용
+    - SW
+        - FS가 disk를 관리한다.
+        - FS는 유저가 만드는 그 어떤 파일이라도 저장할 책임이 있다
+- Disk도 [[Memory]]처럼 byte의 배열에 불과하다
+- OS가 disk에 데이터를 쓰고 관리하기 위해서 하는 일
+    - 새로운 데이터가 disk 어디에 저장될지 확인
+    - 저장 장치에 I/O Request 하기
+- FS는 write작업 중간에 발생한 crash를 다루기도 한다
+    - **Journaling**, copy-on-write
+    - Disk에 write들의 순서를 정리.

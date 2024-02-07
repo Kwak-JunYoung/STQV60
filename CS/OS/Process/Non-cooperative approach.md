@@ -1,0 +1,13 @@
+OS가 그냥 control을 뺏는다.
+- 부팅할 때, OS가 timer를 설정한다
+- 매 ms마다 timer가 interrupt를 일으킨다
+- Interrupt가 뜨면…
+	- 현재 도는 [[Process]]가 멈춘다
+	- program에 현재 상태를 저장한다
+	- OS에서 사전에 설정한 interrupt handler가 동작한다
+		- 타이머 재설정
+		- 스케쥴러 함수를 호출하여 다음에 실행될 프로그램을 정한다.
+			- 바꾼다면, 현재의 state에 대한 register value를 kernel [[Stack]]에 저장하고, 다음에 실행될 [[Process]]의 register를 불러온다.
+				- General purpose registers
+				- PC
+				- kernel [[Stack]] pointer

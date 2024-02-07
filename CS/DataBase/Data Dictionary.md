@@ -1,0 +1,11 @@
+- System 자신이 필요로 하는 여러 가지 객체에 관한 정보를 포함하고 있는 System DB다.
+	- 기본 Table
+	- View
+	- Index
+	- DB
+	- Package
+	- 접근 권한
+- System Catalog, Metadata라고도 한다.
+- System Catalog 자체도 System Table로 구성되어 있어 SQL문을 이용하여 내용 검색이 가능하다.
+- 사용자가 직접 갱신할 순 없다.
+- SQL문으로 여러 객체에 변화를 주면 System이 자동으로 갱신한다.

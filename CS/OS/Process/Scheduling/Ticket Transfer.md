@@ -1,0 +1,1 @@
+- [[Process]]가 다른 [[Process]]에 [[Ticket]]을 나눠줄 수 있다.

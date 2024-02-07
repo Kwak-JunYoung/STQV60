@@ -1,0 +1,3 @@
+- OS가 Process간의 작업을 수행할 수 있기 위해 CPU 통제권 회수를 어떻게 하는가?
+    - [[Cooperative Approach]]
+    - [[Non-cooperative approach]]

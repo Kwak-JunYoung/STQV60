@@ -1,0 +1,7 @@
+- ### [[Best Fit]]
+- ### [[Worst Fit]]
+- ### [[First Fit]]
+- ### [[Next Fit]]
+- ### [[Segregated List]]
+- ### [[Buddy Allocation]]
+- 

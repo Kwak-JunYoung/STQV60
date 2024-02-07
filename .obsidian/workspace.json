@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "d28fde25fabb92a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ea2ff05e2d80657",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce2330223ba834b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EIP/Stream Encryption.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bceee385ddf9544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Network/Encryption/RC4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47f08043737376ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Network/Encryption/Two-way Encryption.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1b6db078fe3cada",
+    "type": "split",
+    "children": [
+      {
+        "id": "954239690df820be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1d5ad94d738bcce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81e36d02cf184d2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc23991009adfd82",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "right": {
+    "id": "d5ab517d0eb9bce4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8fbeb6a6f686750",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d82a535bb6c2e15f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EIP/Stream Encryption.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c9bf107710e7513",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EIP/Stream Encryption.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d0b498a21c97665",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "361cd53ef1d916f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EIP/Stream Encryption.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "ce2330223ba834b1",
+  "lastOpenFiles": [
+    "CS/Network/Encryption/대칭 암호화 알고리즘.md",
+    "EIP/Stream Encryption.md",
+    "CS/Network/Encryption",
+    "CS/Network/Encryption/RC4.md",
+    "CS/Network/Encryption/Two-way Encryption.md",
+    "EIP/Block Encryption.md",
+    "CS/Network/Encryption/AES.md",
+    "CS/Network/Encryption/Encryption.md",
+    "CS/Network/Encryption/RSA.md",
+    "CS/Network/Encryption/DES.md",
+    "CS/Network/Encryption/One-way Encryption.md",
+    "CS/Network/Encryption/SHA-1.md",
+    "CS/Network/Encryption/MD5.md",
+    "CS/Network/Encryption/Encryption.png",
+    "EIP/Spiral Model.png",
+    "EIP/Spiral Model.md",
+    "CS/Network/Encryption/CVS.md",
+    "CS/OS/PFN.md",
+    "CS/Network/Packet.md",
+    "CS/OS/VPN.md",
+    "Untitled.canvas",
+    "EIP/DRM.md",
+    "CS/OS/Process/Scheduling/Convoy Effect.md",
+    "CS/OS/Process/Scheduling/Incorporating IO.md",
+    "CS/OS/Process/Process API.md",
+    "EIP/CASE/Information Repository Technique.md",
+    "EIP/Behavioral Diagram.md",
+    "EIP/PIMS.md",
+    "EIP/OO/OOA/Coad-Yourdon.md",
+    "EIP/Bluetooth",
+    "EIP/Requirements Modelling",
+    "EIP/UI",
+    "EIP/CASE",
+    "CS/Network/OSI",
+    "EIP/OO/SOLID",
+    "EIP/OO",
+    "EIP/Design Pattern",
+    "EIP/OO/OOA",
+    "CS/Network/OSI/OSI.png",
+    "EIP/V Model IMG.png",
+    "CS/OS/TLB Entry.png",
+    "CS/OS/Address Translation with MMU.png",
+    "CS/OS/x86 PTE.png",
+    "CS/OS/Address Translation Example.png",
+    "CS/OS/Virtual Address in Paging.png",
+    "CS/OS/Untitled.canvas",
+    "CS/OS/Buddy_Allocation.png"
+  ]
+}

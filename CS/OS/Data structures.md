@@ -1,0 +1,12 @@
+- OS는 다양한 관련 정보를 추적하는 중요한 데이터 구조를 갖고 있습니다.
+	- [[Process]] list
+	    - [[Ready]]
+	    - [[Blocked]]
+	    - [[Running]]
+	- Register context
+- PCB([[Process]] Control Block)
+    - 각 [[Process]] 대한 정보를 담고 있는 C-structure
+        - 1 [[Process]] 1 PCB
+            - PCB의 구성
+                - Address space
+                - register file
