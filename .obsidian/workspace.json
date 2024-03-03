@@ -50,8 +50,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/DataBase/DBMS Optimizer.md",
+                "file": "CS/DataBase/SQL/SQL Server/ISNULL.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -98,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "데이터 모델링",
+                "query": "VI",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/DataBase/DBMS Optimizer.md",
+                "file": "CS/DataBase/SQL/SQL Server/ISNULL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/DataBase/DBMS Optimizer.md",
+                "file": "CS/DataBase/SQL/SQL Server/ISNULL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/DataBase/DBMS Optimizer.md"
+                "file": "CS/DataBase/SQL/SQL Server/ISNULL.md"
               }
             }
           }
@@ -199,33 +200,35 @@
   },
   "active": "cfb1ae38e39a9e55",
   "lastOpenFiles": [
-    "TCL.md",
-    "CS/DataBase/DBMS Optimizer.md",
+    "CS/DataBase/SQL/Oracle/NVL.md",
+    "CS/DataBase/SQL/SQL Server/ISNULL.md",
+    "CS/DataBase/SQL/SQL Server",
+    "CS/DataBase/SQL/HAVING.md",
+    "CS/DataBase/SQL/Oracle",
+    "CS/DataBase/SQL/GROUP BY.md",
     "CS/DataBase/SQL/SQL.md",
-    "CS/DataBase/DCL.md",
-    "DML.md",
     "CS/DataBase/DDL.md",
-    "CS/DataBase/Identifier/인조 Identifier.md",
-    "CS/DataBase/SQL",
-    "CS/DataBase/Identifier/본질 Identifier.md",
+    "CS/DataBase/DML.md",
+    "CS/DataBase/DCL.md",
     "CS/DataBase/NULL.md",
-    "CS/DataBase/Data Modeling/Data Modeling.md",
-    "CS/DataBase/Relation.md",
-    "EIP/GANTT.md",
-    "EIP/Test Driver.md",
-    "EIP/System 품질 속성.md",
-    "EIP/Spiral Model.md",
-    "EIP/NS-Chart.md",
-    "EIP/MQTT.md",
-    "EIP/Locking Granularity.md",
-    "EIP/HACMP.md",
-    "CS/CS.md",
-    "EIP/Batch Program.md",
-    "CS/OS/Compaction.md",
-    "EIP/Relational Algebra.md",
-    "EIP/Inspection.md",
-    "EIP/DRM.md",
+    "Untitled.md",
+    "CS/DataBase/Normalization/1NF.md",
+    "CS/DataBase/Normalization/Normal Form.md",
+    "CS/DataBase/PK.md",
     "CS/DataBase/Identifier/Primary Identifier.md",
+    "CS/DataBase/Relation.md",
+    "CS/DataBase/Cardinality.md",
+    "CS/DataBase/Membership.md",
+    "CS/DataBase/Relationship.md",
+    "EIP/UML/UML.md",
+    "CS/DataBase/Schema/Internal Schema.md",
+    "CS/DataBase/Schema/Schema.md",
+    "CS/DataBase/Data Modeling/Data Modeling.md",
+    "EIP/OO/OOR/Association.md",
+    "CS/DataBase/ERD.md",
+    "CS/DataBase/Attribute/Attribute.md",
+    "CS/DataBase/Domain.md",
+    "CS/DataBase/SQL",
     "CS/DataBase/Attribute",
     "CS/DataBase/Data Modeling",
     "CS/DataBase/Schema",
@@ -233,8 +236,6 @@
     "EIP/UML",
     "EIP/OO/OOR",
     "EIP/Requirement Analysis",
-    "EIP/ARQ",
-    "CS/DataBase/Anomaly",
     "CS/DataBase/DB Design/DB Design.png",
     "Pasted image 20240208111112.png",
     "EIP/Relation Algebra.png",

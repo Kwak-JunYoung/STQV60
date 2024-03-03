@@ -4,7 +4,7 @@ Unified Modeling Language
 - [[Behavioral Diagram]]
 
 
-DRAG
+### DRAG
 - Dependency
 	- 한 사물의 명세서가 바뀌면 그것을 사용하는 다른 사물에게 영향을 끼치는 것
 - Realization
@@ -15,3 +15,6 @@ DRAG
 - Generalization
 	- 일반화된 사물과 좀 더 특수화된 사물 사이의 관계
 	- 'is-a' 관계
+
+### 특이 사항
+- [[Class Diagram]]의 [[Relationship]]중 [[Association]]과 [[Dependency]]가 있고 이것은 실선과 점선의 표기법으로 다르게 표현된다.
