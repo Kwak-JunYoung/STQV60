@@ -5,3 +5,7 @@ Data Control Language
 - 무결성 유지
 - 병행 제어
 - 회복
+
+### 명령어
+- GRANT
+- REVOKE

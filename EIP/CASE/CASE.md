@@ -1,4 +1,5 @@
 Computer-Aided Software Engineering
+컴퓨터 지원 시스템 공학
 
 시스템 개발과정의 일부 또는 전체를 자동화시킨 것
 - SW 생명주기의 전체 단계를 연결해 주고 자동화해주는 통합된 도구를 제공

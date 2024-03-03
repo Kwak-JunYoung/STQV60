@@ -1,0 +1,1 @@
+타 [[Entity]]와의 관계를 통해 타 [[Entity]]로부터 받아오는 [[Identifier]]

@@ -8,12 +8,12 @@
     {
       "type": "file",
       "ctime": 1707099311947,
-      "path": "EIP/ERD.md"
+      "path": "CS/DataBase/ERD.md"
     },
     {
       "type": "file",
       "ctime": 1707099339134,
-      "path": "CS/DataBase/Normal Form.md"
+      "path": "CS/DataBase/Normalization/Normal Form.md"
     },
     {
       "type": "file",
@@ -23,7 +23,7 @@
     {
       "type": "file",
       "ctime": 1707111304512,
-      "path": "EIP/UML.md"
+      "path": "EIP/UML/UML.md"
     },
     {
       "type": "file",
@@ -72,11 +72,6 @@
     },
     {
       "type": "file",
-      "ctime": 1707192371835,
-      "path": "EIP/COCOMO.md"
-    },
-    {
-      "type": "file",
       "ctime": 1707194819632,
       "path": "EIP/OO/OOA/Rumbaugh.md"
     },
@@ -93,7 +88,12 @@
     {
       "type": "file",
       "ctime": 1707291016054,
-      "path": "CS/DataBase/Logical DB Design.md"
+      "path": "CS/DataBase/DB Design/Logical DB Design.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1707801360823,
+      "path": "EIP/OO/OOR/Classification.md"
     }
   ]
 }

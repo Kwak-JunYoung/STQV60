@@ -1,0 +1,12 @@
+- Throughput
+	- 처리 능력
+	- 단위 시간 내 작업 처리량
+- Turn Around Time
+	- 처리 시간
+	- 작업 의뢰부터 처리까지의 시간
+- Availability
+	- 가용성
+	- 필요할 때 즉시 사용 가능한 정도
+- Reliability
+	- 신뢰도
+	- 주어진 문제를 정확하게 해결하는 정도

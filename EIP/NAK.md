@@ -1,0 +1,2 @@
+Negative AcKnowledgement
+부정 응답

@@ -1,0 +1,5 @@
+- DB에 대한 추상적인 형태를 설계
+- [[Transaction]] Modelling
+- 독립적인 개념 [[Schema]] Modelling
+- 개념적 모델을 이용한 개념 [[Schema]] 설계
+- [[ERD]]

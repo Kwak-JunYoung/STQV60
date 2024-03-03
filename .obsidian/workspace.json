@@ -8,18 +8,68 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8882657f4da5069f",
+            "id": "97063d03e49e85f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/DataBase/Relation Algebra.md",
+                "file": "CS/DataBase/Identifier/인조 Identifier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2e5ed1cf1a8b22a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/DataBase/Attribute/Derived Attribute.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e08c0c9afe3ee5da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/DataBase/SQL/SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfb1ae38e39a9e55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/DataBase/DBMS Optimizer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a9ae554e6396b92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/DataBase/Identifier/본질 Identifier.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "알파",
+                "query": "데이터 모델링",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/DataBase/Relation Algebra.md",
+                "file": "CS/DataBase/DBMS Optimizer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/DataBase/Relation Algebra.md",
+                "file": "CS/DataBase/DBMS Optimizer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/DataBase/Relation Algebra.md"
+                "file": "CS/DataBase/DBMS Optimizer.md"
               }
             }
           }
@@ -147,54 +197,55 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8882657f4da5069f",
+  "active": "cfb1ae38e39a9e55",
   "lastOpenFiles": [
-    "Relation Algebra.png",
-    "CS/DataBase/Relation Algebra.md",
-    "CS/DataBase/Physical DB Design.md",
-    "CS/DataBase/Logical DB Design.md",
-    "EIP/Work Breakdown Structure.md",
-    "EIP/CPM.md",
-    "EIP/ORB.md",
-    "EIP/N-Screen.md",
-    "EIP/MOM.md",
-    "EIP/MEMS.md",
-    "EIP/Memristor.md",
-    "EIP/Module.md",
+    "TCL.md",
+    "CS/DataBase/DBMS Optimizer.md",
+    "CS/DataBase/SQL/SQL.md",
+    "CS/DataBase/DCL.md",
+    "DML.md",
+    "CS/DataBase/DDL.md",
+    "CS/DataBase/Identifier/인조 Identifier.md",
+    "CS/DataBase/SQL",
+    "CS/DataBase/Identifier/본질 Identifier.md",
+    "CS/DataBase/NULL.md",
+    "CS/DataBase/Data Modeling/Data Modeling.md",
+    "CS/DataBase/Relation.md",
     "EIP/GANTT.md",
-    "EIP/Inspection.md",
-    "EIP/FTP Flooding.md",
-    "EIP/DRM.md",
-    "EIP/DFD.md",
     "EIP/Test Driver.md",
-    "EIP/Test Stub.md",
-    "EIP/SW 품질 속성.md",
     "EIP/System 품질 속성.md",
-    "EIP/System Catalog.md",
-    "EIP/SW Development Model.md",
-    "EIP/Stub.md",
-    "EIP/Test/Bottom Up Integration Test.md",
-    "CS/Network/IP Address Classes.md",
-    "EIP/Test",
-    "push.sh",
-    "README.md~",
-    "CS/Network/Encryption",
+    "EIP/Spiral Model.md",
+    "EIP/NS-Chart.md",
+    "EIP/MQTT.md",
+    "EIP/Locking Granularity.md",
+    "EIP/HACMP.md",
+    "CS/CS.md",
+    "EIP/Batch Program.md",
+    "CS/OS/Compaction.md",
+    "EIP/Relational Algebra.md",
+    "EIP/Inspection.md",
+    "EIP/DRM.md",
+    "CS/DataBase/Identifier/Primary Identifier.md",
+    "CS/DataBase/Attribute",
+    "CS/DataBase/Data Modeling",
+    "CS/DataBase/Schema",
+    "CS/DataBase/Identifier",
+    "EIP/UML",
+    "EIP/OO/OOR",
+    "EIP/Requirement Analysis",
+    "EIP/ARQ",
+    "CS/DataBase/Anomaly",
+    "CS/DataBase/DB Design/DB Design.png",
+    "Pasted image 20240208111112.png",
+    "EIP/Relation Algebra.png",
     "CS/Network/Encryption/Encryption.png",
     "EIP/Spiral Model.png",
     "Untitled.canvas",
-    "EIP/Bluetooth",
-    "EIP/Requirements Modelling",
-    "EIP/UI",
-    "EIP/CASE",
-    "CS/Network/OSI",
-    "EIP/OO/SOLID",
     "CS/Network/OSI/OSI.png",
     "EIP/V Model IMG.png",
     "CS/OS/TLB Entry.png",
     "CS/OS/Address Translation with MMU.png",
     "CS/OS/x86 PTE.png",
-    "CS/OS/Address Translation Example.png",
-    "CS/OS/Virtual Address in Paging.png",
     "CS/OS/Untitled.canvas"
   ]
 }
