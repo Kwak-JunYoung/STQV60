@@ -1,0 +1,1 @@
+- [[Subquery]]의 실행 결과로 여러 Column을 반환한다. Main query의 조건절에 여러 column을 동시에 비교할 수 있다. [[Subquery]]와 main query에서 비교하고자 하는 column 개수와 column의 위치가 동일해야 한다.

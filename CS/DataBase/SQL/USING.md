@@ -1,0 +1,7 @@
+SELECT T.REGION_NAME, T.TEAM_NAME, T.STADIUM_ID, S.STADIUM_NAME
+FROM TEAM T INNER JOIN STADIUM S
+USING (STADIUM_ID)
+
+(=> ON T.STADIUM_ID = S.STADIUM_ID)
+
+같은 이름을 가졌다면 table 특정할 것 없이 그냥 그 column name만 조건문에 넣을 수 있음.

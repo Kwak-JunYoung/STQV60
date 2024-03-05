@@ -1,0 +1,1 @@
+- 일반적으로 RATIO_TO_REPORT(A) OVER(PARTITION BY B)라고 하는데, 그럼 그 row의 A가 B로 group by했을 때 어느정도 비율에 속하는지 나타냄.
