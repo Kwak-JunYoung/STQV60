@@ -94,6 +94,16 @@
       "type": "file",
       "ctime": 1707801360823,
       "path": "EIP/OO/OOR/Classification.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1709713454033,
+      "path": "CS/DataBase/SQL/LAG.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1709713462472,
+      "path": "CS/DataBase/SQL/LEAD.md"
     }
   ]
 }
