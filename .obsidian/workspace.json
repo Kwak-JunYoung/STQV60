@@ -35,12 +35,8 @@
             "id": "426da9d23c037f12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/DataBase/SQL/PARTITION BY.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "d5ab517d0eb9bce4",
@@ -173,36 +170,36 @@
   },
   "active": "0760388885734872",
   "lastOpenFiles": [
+    "CS/DataBase/View.md",
+    "CS/DataBase/Dynamic View.md",
+    "CS/DataBase/Inline View.md",
+    "CS/DataBase/Subquery/Subquery.md",
+    "CS/DataBase/Subquery/Multi Row.md",
+    "CS/DataBase/Subquery/Single row.md",
+    "CS/DataBase/노랭이 문풀.md",
+    "CS/DataBase/SQL/RATIO_TO_REPORT.md",
+    "CS/DataBase/SQL/Untitled.md",
+    "CS/DataBase/SQL/PERCENT_RANK.md",
+    "CS/DataBase/SQL/DENSE_RANK.md",
+    "CS/DataBase/SQL/RANK.md",
+    "CS/DataBase/SQL/CUME_DIST.md",
+    "CS/DataBase/SQL/EXCEPT.md",
+    "CS/DataBase/Subquery/Multi Column.md",
+    "CS/DataBase/SQL/WINDOW FUNCTION.md",
+    "CS/DataBase/SQL/SELF JOIN.md",
     "CS/DataBase/Hierarchical Query.md",
     "CS/DataBase/Hierarchical Data.md",
     "CS/DataBase/SQL/CONNECT BY.md",
     "CS/DataBase/SQL/START WITH.md",
-    "CS/DataBase/노랭이 문풀.md",
     "CS/DataBase/SQL/INTERSECT.md",
-    "CS/DataBase/SQL/RATIO_TO_REPORT.md",
     "CS/DataBase/SQL/PARTITION BY.md",
     "CS/DataBase/SQL/ROLLUP, CUBE, GROUPING SETS.md",
     "Pasted image 20240304142332.png",
     "Pasted image 20240304142306.png",
     "CS/DataBase/SQL/GROUPING SETS.md",
     "CS/DataBase/SQL/UNION ALL.md",
-    "CS/DataBase/SQL/UNION.md",
-    "CS/DataBase/Identifier/본질 Identifier.md",
-    "CS/DataBase/SQL/SQL.md",
-    "CS/DataBase/Subquery/Subquery.md",
-    "CS/DataBase/SQL/EXCEPT.md",
-    "CS/DataBase/Subquery/Multi Column.md",
     "CS/DataBase/Subquery",
-    "CS/DataBase/Subquery/Single Column.md",
-    "CS/DataBase/Subquery/Multi Row.md",
-    "CS/DataBase/Subquery/Single row.md",
-    "CS/DataBase/SQL/Oracle/(+).md",
-    "CS/DataBase/SQL/CROSS JOIN.md",
-    "CS/DataBase/SQL/USING.md",
-    "CS/DataBase/SQL/SQL Server/ISNULL.md",
-    "CS/DataBase/SQL/Oracle/NVL.md",
     "CS/DataBase/SQL/SQL Server",
-    "CS/DataBase/SQL/HAVING.md",
     "CS/DataBase/SQL/Oracle",
     "CS/DataBase/SQL",
     "CS/DataBase/Attribute",

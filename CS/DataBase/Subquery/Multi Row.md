@@ -1,1 +1,2 @@
 - 결과가 여러행인 경우 조회하는 쿼리로 all, any, in, any/some 등을 사용한다.
+- [[Single row]] [[Subquery]]의 비교 연산자로도 사용할 수 있음
